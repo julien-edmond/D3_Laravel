@@ -9,5 +9,6 @@
     </head>
     <body>
         Je vous présente mon stage
+        <a href="{{ url('/') }}">Home</a>
     </body>
 </html>
