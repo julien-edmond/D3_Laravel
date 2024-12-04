@@ -20,3 +20,4 @@ mix.copy('node_modules/bootstrap/dist/js/bootstrap.bundle.min.js', 'public/js');
 mix.copy('node_modules/bootstrap/dist/js/bootstrap.min.js', 'public/js');
 mix.copy('node_modules/@fortawesome/fontawesome-free/webfonts', 'public/webfonts');
 mix.copy('node_modules/@fortawesome/fontawesome-free/css/all.min.css', 'public/css');
+mix.js('node_modules/jquery/dist/jquery.min.js', 'public/js');
